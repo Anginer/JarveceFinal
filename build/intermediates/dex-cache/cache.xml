@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Users\Clement\StudioProjects\Jarvece\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="D:\Users\Clement\StudioProjects\Jarvece\app\build\intermediates\pre-dexed\debug\classes-e57fdccf5d14ce7997f1c1f4f4ea1fbd197da94c.jar" />
+    </item>
+    <item
+        jar="D:\Users\Clement\StudioProjects\Jarvece\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="D:\Users\Clement\StudioProjects\Jarvece\app\build\intermediates\pre-dexed\debug\classes-4dd5ff28769b2972325c6137ef7ee79206e4e799.jar" />
+    </item>
+    <item
+        jar="D:\Users\Clement\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="D:\Users\Clement\StudioProjects\Jarvece\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-4c936198448aeb1ce0511c98bd81d0cec0913c7b.jar" />
+    </item>
+    <item
+        jar="D:\Users\Clement\StudioProjects\Jarvece\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="D:\Users\Clement\StudioProjects\Jarvece\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-9e70b7616742f166e2d77fcad8c8bcdd2b2fcf00.jar" />
+    </item>
+
+</items>
